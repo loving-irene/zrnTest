@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.lovingirene.zrntest.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.lovingirene.zrntest.MyBundle
 
 class MyApplicationService {
 
